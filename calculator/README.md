@@ -1,16 +1,5 @@
-# calculator
+# Hesap Makinesi 
 
-A new Flutter project.
+Bir Flutter Projesidir
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1707417243](https://github.com/saidtuncc/HesapMakinesi/assets/113348653/de77f2d7-bf2d-4bb7-9154-7cd3ede2ca66)
